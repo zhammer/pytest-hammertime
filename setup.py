@@ -7,7 +7,7 @@ with open('README.md', 'r') as readme:
 
 setup(
     name='pytest-hammertime',
-    version='1.1.0',
+    version='1.1.1',
     description='Display "🔨 " instead of "." for passed pytest tests.',
     url='https://github.com/zhammer/pytest-hammertime',
     author='Zach Hammer',
